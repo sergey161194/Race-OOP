@@ -59,5 +59,5 @@ var moveCar = function () {
 
 setInterval(moveCar, 30);
 
-var tesla = new Car(20, 20);
-var nissan = new Car(20, 200);
+var tesla = new Car(10, 250);
+var nissan = new Car(10, 350);
